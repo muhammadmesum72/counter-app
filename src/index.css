@@ -1,4 +1,6 @@
-*{
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500;600;700;800;900&family=Shadows+Into+Light+Two&display=swap");
+
+* {
   font-family: "Poppins";
   line-height: 1.5;
   font-weight: 400;
@@ -13,4 +15,3 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
-
